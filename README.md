@@ -1,12 +1,13 @@
 <!-- 🌤️💙────────────────────────────────────────────────────────💗🌙 -->
 <!--                    T W I N K L E   P A N I G R A H I               -->
-<!--        I N N O V A T O R   I N   T E C H  &  T H O U G H T          -->
+<!--        I N N O V A  T O R   I N   T E C H  &  T H O U G H T         -->
 <!--                 C L O U D  •  C O D E  •  C R E A T I V I T Y       -->
 <!--             handcrafted in soft-blue × pink aesthetic mode          -->
 <!-- 🌤️💙────────────────────────────────────────────────────────💗🌙 -->
 
-<h1 align="center">Namaste, I'm <strong>Twinkle Panigrahi</strong> 🌸</h1>
-<h3 align="center">"Blending Tech Mastery with Artistic Flow"  
+
+<h1 align="center">🙏 Namaste, I'm <strong>Twinkle Panigrahi</strong> 🌸</h1>
+<h3 align="center">"Blending Tech Mastery with Artistic Flow"<br>
 🧠 Tech Innovator | 🖋 Writer | 🎵 Classical Singer | 📍 Odisha, India</h3>
 
 ---
@@ -34,6 +35,13 @@ My vibe?
 🎵 Classical musician  
 
 I blend **cloud engineering**, **design**, **writing**, and **cybersecurity** into a unique, elegant tech identity.
+
+---
+
+# 🌌 **My Technical Journey — Visual Map**
+<div align="center">
+  <img src="https://i.imgur.com/d11d79e.jpeg" width="100%" style="border-radius: 12px;" />
+</div>
 
 ---
 
@@ -122,14 +130,3 @@ I blend **cloud engineering**, **design**, **writing**, and **cybersecurity** in
 </p>
 
 ---
-
-# 🎀 **My Aesthetic Footer**
-<div align="center">
-  <img src="https://i.imgur.com/8fK4XQZ.jpeg" width="100%" style="border-radius:18px;" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3 style="color:#FF92C2;">🌙 “Quietly leveling up, loudly transforming my future.”</h3>
-</div>
