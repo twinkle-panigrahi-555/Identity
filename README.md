@@ -1,129 +1,77 @@
-<!-- ──────────────────────────────── -->
-<!-- 🌙 T W I N K L E   P A N I G R A H I -->
-<!-- A NEXT-GEN CLOUD ENGINEER WITH A CREATIVE SOUL -->
-<!-- ──────────────────────────────── -->
+<!-- Twinkle Panigrahi • Clean Professional GitHub Profile (Eddie Jaoude Style) -->
 
 <div align="center">
 
 # ✨ Twinkle Panigrahi  
-### Cloud Engineer in Progress • Creative Technologist • Digital Storyteller  
+### Cloud Computing • Web Development • Creative Engineering  
 
-<img src="https://media.tenor.com/Ce7UfdzGxW4AAAAi/pixel-clouds.gif" width="200" />
+<!-- Banner Will Be Generated Soon -->
+<img src="https://via.placeholder.com/900x250.png?text=Twinkle+Panigrahi+%7C+Cloud+%26+Creative+Engineer" width="100%" />
 
-### **“Advancing meaningful innovation through thoughtful engineering, elegant systems, and disciplined growth.”**
+</div>
 
 <br>
 
+I believe technology becomes *truly powerful* when engineering meets creativity.  
+Welcome to my corner of the internet 🌙✨
+
 ---
 
-## 🌈 **Cinematic Header**
-<div align="center">
+## 🌟 Highlights
+- 🟣 **AWS Cloud Practitioner Certified**  
+- 🔹 Passionate about **Cloud Architecture & Scalable Systems**  
+- 🔹 Experience with **MATLAB & Simulink projects**  
+- 🔹 Strong foundation in **C, Java, OOP, DSA**  
+- 🔹 Exploring **Tailwind CSS + Creative Web Dev**  
+- 🔹 Freelance **writer & script creator** (2 short films)  
+- 🎶 7 years in **Hindustani Classical Music**, Red Belt in **Taekwondo**
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&pause=1000&color=F7A9E3&center=true&vCenter=true&width=600&lines=Cloud+Engineer+in+the+Making.;Creative+Builder+with+Soft+Power.;Engineer+by+Logic+—+Artist+by+Heart.;Turning+Ideas+into+Impact.;Learning+Silently+—+Growing+Powerfully.">
+---
+
+## 📌 Featured Projects  
+- **AWS Learning Guide (Coming Soon)**  
+- **Java DSA Clean Codes**  
+- **Tailwind Portfolio Template (Coming Soon)**  
+
+---
+
+## 🔗 Connect With Me  
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Twinkle%20Panigrahi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/twinkle-panigrahi-8362b6282)  
+[![Twitter](https://img.shields.io/badge/Twitter-@twinkle_sneha-black?style=flat-square&logo=x)](https://x.com/twinkle_sneha)
 
 </div>
 
 ---
 
-## 🧭 **About Me**
-I am a B.Tech IT student (2023–2027) at **NIST University**, evolving at the intersection of  
-**cloud engineering**, **clean system design**, and **creative expression**.
-
-My vibe?  
-🧠 *Thoughtful engineering*  
-🌸 *Soft aesthetic energy*  
-☁️ *Cloud-first mindset*  
-🎀 *Creative storyteller*  
-
-Outside tech, I am a trained **Hindustani classical singer**, writer, lyricist, and designer.
+## 📚 Currently Learning
+- ☁️ Advanced AWS Concepts  
+- ⚙️ Serverless & Deployment  
+- 💻 Improving core CS fundamentals  
 
 ---
 
-# 🛠️ **Tech Universe**
+## 🎤 Content & Creativity
+- ✍️ Poetry · Blogs · Article Writing  
+- 🎬 Scriptwriting for short films  
+- 🎨 Creative designs (Canva + Blender)  
+
+---
+
+## 📊 GitHub Stats  
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,java,c,python,html,css,tailwind,git,github,matlab&perline=7" />
+<img src="https://github-readme-stats.vercel.app/api?username=twinkle-panigrahi-555&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
 
-</div>
-
-### **Primary Languages:** C, Java  
-### **Favorite Stack:** HTML + Tailwind + AWS  
-### **Currently Obsessed With:** Cloud architecture & system modeling  
-### **Next on Radar:** DevOps, Serverless, Containers  
-### **Secret Weapons:** MATLAB + Simulink, aesthetic documentation, storytelling
-
----
-
-# 🚀 **Current Mission**
-- Building beginner-friendly **AWS learning repositories**  
-- Creating minimal, elegant **open-source templates**  
-- Documenting my tech journey with visuals  
-- Expanding my cloud engineering foundation  
-
----
-
-# 🧠 **Code Philosophy**
-- **Elegance over excess**  
-- **Softness ≠ weakness — clarity is power**  
-- **Systems should be simple, predictable & scalable**  
-- **Good engineering is disciplined creativity**
-
----
-
-# 🌿 **Visual Timeline — My Evolution**
-
----
-
-# 🎨 **Digital Footprint**
-<div align="center">
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/twinkle-panigrahi-8362b6282)  
-[![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/twinkle_sneha)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twinkle-panigrahi-555&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
 
 ---
 
-# 📊 **Tech Radar & Stats**
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=twinkle-panigrahi-555&show_icons=true&theme=tokyonight&hide_border=true" width="70%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twinkle-panigrahi-555&layout=compact&theme=tokyonight&hide_border=true" width="70%" />
-
-<img src="https://streak-stats.demolab.com?user=twinkle-panigrahi-555&theme=neon-dark&hide_border=true" width="70%" />
+  
+### 🌙 “Quietly leveling up — one commit at a time.”
 
 </div>
-
----
-
-# 🦋 **Outside the Terminal**
-- Hindustani Classical vocalist (7 yrs)  
-- Scriptwriter & poet  
-- Keyboard player  
-- Visual design & crafts  
-- Taekwondo: Red Belt  
-
----
-
-# 🎭 **Random Dev Fact**
-I write documentation like poetry — clean, structured, and thoughtful.
-
----
-
-# ⚡ **Collaboration Manifesto**
-If you believe in:
-- meaningful innovation,  
-- aesthetic engineering,  
-- and disciplined growth  
-
-…then we’re already aligned.
-
----
-
-<div align="center">
-
-### 🌙 *“Quietly leveling up, loudly transforming my future.”*
-
-</div>
-
